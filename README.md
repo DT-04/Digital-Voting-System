@@ -51,7 +51,7 @@ The simulation uses these virtual components:
 
 ## **📞 Contact**  
 For questions or suggestions:  
-📧 Email: your-dhruvistanna17@gmail.com 
+📧 Email: dhruvistanna17@gmail.com 
 
 ---
 
